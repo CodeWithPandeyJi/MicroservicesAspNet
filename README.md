@@ -55,3 +55,5 @@ Sample microservices/containers to reroute through the API Gateways
 Run multiple different API Gateway/BFF container types
 The Gateway aggregation pattern in Shopping.Aggregator
 Dockerfile and docker-compose implementation
+
+7.Identity Server for Authentication
